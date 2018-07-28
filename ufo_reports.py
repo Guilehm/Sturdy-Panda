@@ -6,4 +6,6 @@ print(ufo)
 print(type(ufo['City']))
 print(type(ufo.City))
 
-print(ufo.City + ' ' + ufo.State)
+# creating new column
+ufo['Location'] = (ufo.City + ', ' + ufo.State)
+print(ufo.Location)
