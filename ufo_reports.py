@@ -5,3 +5,5 @@ print(ufo)
 
 print(type(ufo['City']))
 print(type(ufo.City))
+
+print(ufo.City + ' ' + ufo.State)
