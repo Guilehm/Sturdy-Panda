@@ -1,1 +1,1 @@
-# Sturdy-Panda
+# Sturdy-Pandas
